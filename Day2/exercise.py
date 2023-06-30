@@ -48,5 +48,5 @@ print(floor_div)
 name = input("What is Your Name :")
 country = input("Where you from :")
 age = input("What's your age :")
-print("so your name is",name ,"and you from ",country,"and your age is ",age)
+print("so your name is",name ,"and you from ",country,"and your age is ",age,"years old")
 
