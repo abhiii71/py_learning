@@ -103,4 +103,6 @@ print(ch.swapcase())
 
 #startswith(): Checks if String Starts with the Specified String
 ch = "Developer Advocate Abhii"
-print(ch.startswith("Dev"))
+print(ch.index[0])
+
+
